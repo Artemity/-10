@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>практика_10</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="37qYdLoR70sEOJE4mLgREfZyTVACeM18KhpNQcNefA75SjP7I4tjtGqhUCUIJaphP_rM3NyOsm9URa_Aa9W3fnRq.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="37qYdLoR70sEOJE4mLgREfZyTVACeM18KhpNQcNefA75SjP7I4tjtGqhUCUIJaphP_rM3NyOsm9URa_Aa9W3fnRq.jpg" />
+  </ItemGroup>
+
+</Project>
